@@ -1,0 +1,17 @@
+{
+  "characters": [
+    {
+      "id": 1,
+      "name": "Neo",
+      "age": 32
+    },
+    {
+      "id": 1,
+      "name": "Trinity",
+      "age": 35
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
